@@ -1,0 +1,72 @@
+@charset "UTF-8";
+body {
+	width:100%;
+	margin:0%;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 100px;
+	color: #FDF5F5;
+	background: #C94C4E;
+	align-content: center;
+}
+
+img {position: absolute;}
+
+.SunA {
+position:absolute;
+margin-left:70%;	
+
+}
+.sunB {
+position:absolute;
+margin-left:0%;	
+}
+.inter {
+position:absolute;
+margin-top: 80%;	
+margin-left:35%;	
+}
+.palmleft {
+position:absolute;	
+margin-top:100%;
+margin-left: 0%;
+right: 60%
+}
+.palmright {
+position:absolute;
+margin-top: 100%;	
+margin-left:55%;
+left: 10px;
+top: 10%
+	
+}
+
+.hands {
+position:absolute;
+margin-top:40%;	
+}
+.bird{
+position:absolute;
+	margin-top: 35%;
+}
+
+.B{
+position:absolute;
+margin-left:35%;	
+}
+.vid{
+	position:absolute;
+	margin-left: 15%;
+	padding-top: 140%;
+}
+.vid1{
+	position:absolute;
+	margin-left: 40%;
+	padding-top: 140%;
+}
+.vid2{
+	position:absolute;
+	margin-left: 65%;
+	padding-top: 140%;
+}
+		
+	
